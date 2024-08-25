@@ -1,0 +1,13 @@
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DataView.resources
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MapView.resources
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.VideoView.resources
+C:\Users\MALİ\Desktop\Kızagan  MUY\YER İSTASYONU\KIZAGAN YER İSTASYONU\KIZAGAN\deneme 1\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainView.resources
